@@ -1,33 +1,18 @@
 # Gestion Pharmacie (C)
 
-## 📌 Description
-A console application in C for managing a pharmacy:
-- Client management
-- Medicines list
-- Sales (vente)
-- Billing (factures)
-- Suppliers (fournisseurs)
-- Data saved in text/binary files
+A console application written in C to manage a pharmacy (clients, medicines, sales, invoices, suppliers) with file-based storage.
 
-## 🛠️ Features
-✅ Add / remove clients  
-✅ View medicines  
-✅ Record sales  
-✅ Generate invoices  
-✅ Store data in files
+## Features
+- Manage clients (add / edit / delete / list)
+- Manage medicines (add / update stock / search / list)
+- Record sales (vente)
+- Generate invoices (facture)
+- Manage suppliers (fournisseurs)
+- Save/load data using files (.txt / .dat / .bin)
 
-## 📂 Project Structure
-- `main.c` — program entry point
-- `Client.c` / `Client.h` — client functions
-- `Medicaments.c` / `Medicaments.h` — medicines
-- `Vente.c` / `Vente.h` — sales
-- `Facture.c` / `Facture.h` — invoicing
-- `Fournisseur.c` / `Fournisseur.h` — suppliers
-- `Utils.c` / `Utils.h` — helper functions
+## Build & Run
 
-## 💻 How to Compile
-
-Using **GCC** (MinGW on Windows):
-
+### Using GCC (MinGW)
 ```bash
 gcc *.c -o GestionPharmacie.exe
+./GestionPharmacie.exe
