@@ -1,0 +1,9 @@
+8
+4;REF004;PharmaPlus2;Sara;Bensalem;Directeur;0611223344;sara@pharmaplus2.com;www.pharmaplus2.com;12 rue Omar;Marrakech;MA;40000;Maroc;TVA004;SARL;BanquePopulaire;RIB004;IBAN004;4;1;2025-04-01;3;104,105,106
+5;REF005;MediCare;Omar;Elhassani;Responsable;0622334455;omar@medicare.com;www.medicare.com;56 avenue Mohammed V;Tangier;TG;90000;Maroc;TVA005;SARL;BMCE;RIB005;IBAN005;6;1;2025-05-01;2;107,108
+6;REF006;HealthPlus;Leila;Khadir;Directeur;0633445566;leila@healthplus.com;www.healthplus.com;89 rue des Fleurs;Agadir;AG;80000;Maroc;TVA006;SARL;Attijari;RIB006;IBAN006;5;1;2025-06-01;1;109
+7;REF007;PharmaCare;Karim;Bouzidi;Responsable;0614556677;karim@pharmacare.com;www.pharmacare.com;33 bd des Remparts;Meknès;ME;50000;Maroc;TVA007;SARL;BanquePopulaire;RIB007;IBAN007;7;1;2025-07-01;0;
+8;REF008;MediPharma;Nadia;Amrani;Directeur;0625667788;nadia@medipharma.com;www.medipharma.com;21 avenue Hassan;Oujda;OU;60000;Maroc;TVA008;SARL;BMCE;RIB008;IBAN008;4;1;2025-08-01;2;110,111
+9;REF009;SantéPlus;Rachid;Fassi;Responsable;0636778899;rachid@santeplus.com;www.santeplus.com;77 rue des Orangers;Tétouan;TE;9000;Maroc;TVA009;SARL;Attijari;RIB009;IBAN009;3;1;2025-09-01;1;112
+10;REF010;PharmaElite;Samira;Idrissi;Directeur;0617889900;samira@pharmaelite.com;www.pharmaelite.com;15 bd Mohammed;Essaouira;ES;44000;Maroc;TVA010;SARL;BanquePopulaire;RIB010;IBAN010;6;1;2025-10-01;0;
+1;1;1;1;1;ˆ÷€;0650784009;kaoutar@gmail.com;k;;;;;;;;;;;0;0;;0;

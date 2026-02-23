@@ -1,0 +1,21 @@
+20
+1;1234567890123;;;;;;;;;;;;0;0;;0.00;0.00;;
+2;9876543210987;Ibuprofène;Ibuprofen;Anti-inflammatoire;Comprimé;400;mg;Boite de 20;Bayer;Allemagne;2024-06-01;2026-06-01;27;5;Rayon A2;3.00;4.50;Orale;non
+3;1112223334445;Amoxicilline;Amoxicillin;Antibiotique;Gélule;500;mg;Boite de 12;Pfizer;USA;2025-03-15;2027-03-15;20;5;Rayon B1;5.00;6.50;Orale;oui
+4;5556667778889;Ventoline;Salbutamol;Bronchodilatateur;Inhalateur;100;µg;1 flacon;GlaxoSmithKline;UK;2025-02-01;2028-02-01;15;3;Rayon C1;25.00;30.00;Inhalation;oui
+5;9998887776665;Dafalgan;Paracetamol;Antalgique;Comprimé;500;mg;Boite de 16;Bristol-Myers;France;2024-09-01;2026-09-01;37;10;Rayon A1;2.00;3.00;Orale;non
+6;2223334445556;Tylénol;Paracetamol;Antalgique;Comprimé;500;mg;Boite de 24;Johnson&Johnson;USA;2025-05-01;2027-05-01;26;10;Rayon A1;2.80;3.80;Orale;non
+7;3334445556667;Clarithromycine;Clarithromycin;Antibiotique;Gélule;500;mg;Boite de 10;Abbott;UK;2024-12-01;2026-12-01;25;5;Rayon B2;6.00;7.50;Orale;oui
+8;4445556667778;Prednisone;Prednisone;Corticostéroïde;Comprimé;20;mg;Boite de 30;Roche;Suisse;2025-03-01;2027-03-01;15;3;Rayon C2;4.00;5.50;Orale;oui
+9;5556667778880;Oméprazole;Omeprazole;Anti-ulcéreux;Capsule;20;mg;Boite de 14;AstraZeneca;UK;2024-11-01;2026-11-01;40;10;Rayon D1;3.50;4.50;Orale;non
+10;6667778889991;Paracétamol;Paracetamol;Antalgique;Comprimé;650;mg;Boite de 16;Sanofi;France;2025-02-15;2027-02-15;50;10;Rayon A1;3.00;4.00;Orale;non
+11;7778889990002;Azithromycine;Azithromycin;Antibiotique;Comprimé;250;mg;Boite de 6;Pfizer;USA;2025-01-15;2027-01-15;20;5;Rayon B1;7.00;8.50;Orale;oui
+12;8889990001113;Metformine;Metformin;Antidiabétique;Comprimé;500;mg;Boite de 30;Merck;Allemagne;2024-10-01;2026-10-01;128;5;Rayon E1;2.50;3.50;Orale;non
+13;9990001112224;Insuline;Insulin;Antidiabétique;Injectable;100;UI;1 flacon;NovoNordisk;Danemark;2025-01-10;2026-12-31;10;2;Rayon E2;45.00;50.00;Injection;oui
+14;1110002223335;Cétirizine;Cetirizine;Antihistaminique;Comprimé;10;mg;Boite de 10;GSK;UK;2024-09-15;2026-09-15;25;5;Rayon F1;1.50;2.50;Orale;non
+15;2221113334446;Loratadine;Loratadine;Antihistaminique;Comprimé;10;mg;Boite de 10;Sanofi;France;2024-08-01;2026-08-01;30;5;Rayon F1;2.00;3.00;Orale;non
+16;3332224445557;Amoxicilline+Acide clavulanique;Amoxicillin+Clavulanic;Antibiotique;Comprimé;875;mg;Boite de 14;AstraZeneca;UK;2025-03-01;2027-03-01;20;5;Rayon B2;8.00;10.00;Orale;oui
+17;4443335556668;Salbutamol;Salbutamol;Bronchodilatateur;Inhalateur;200;µg;1 flacon;Boehringer;Allemagne;2025-04-01;2028-04-01;15;3;Rayon C1;26.00;31.00;Inhalation;oui
+18;5554446667779;Diclofénac;Diclofenac;Anti-inflammatoire;Comprimé;50;mg;Boite de 20;Novartis;Suisse;2024-12-01;2026-12-01;30;5;Rayon A2;3.50;4.50;Orale;non
+19;6665557778880;Lévothyrox;Levothyroxine;Hormone;Comprimé;100;µg;Boite de 28;Merck;France;2024-11-01;2026-11-01;20;5;Rayon G1;5.00;6.50;Orale;oui
+20;7776668889991;Ibuprofène+Paracetamol;Ibuprofen+Paracetamol;Antalgique;Comprimé;400;mg;Boite de 16;Bayer;Allemagne;2025-01-01;2027-01-01;25;5;Rayon A2;4.00;5.50;Orale;non
