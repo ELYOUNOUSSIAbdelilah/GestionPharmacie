@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Code::Blocks / IDE files
+*.cbp
+*.depend
+*.layout
+obj/
+bin/
+
+# OS files
+.DS_Store
+Thumbs.db
